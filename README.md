@@ -1,8 +1,8 @@
 # Exatas-para-programadores
 
-Vamos criar a maior biblioteca de funções EXPLICaDas implementadas em JS.
+Vamos criar a maior biblioteca de funções EXPLICADAS simplementadas em JS.
 
-Como a maioria deve saber eu, [Suissa]() amo as disciplinas de Exatas, e gostaria de iniciar uma integraçao maior entre os alunos dessas disciplinas e nós programadores, pois nós podemos auxiliar qualquer disciplina a evoluir sua forma de ensino criando plataformas e ferramentas que ajudem nesse objetivo.
+Como a maioria deve saber eu, [Suissa]() amo as disciplinas de Exatas e gostaria de iniciar uma integraçao maior entre os alunos dessas disciplinas e nós programadores, pois nós podemos auxiliar qualquer disciplina a evoluir sua forma de ensino criando plataformas e ferramentas que ajudem nesse objetivo.
 
 Por isso venho por meio deste repositório convidar programadores e alunos/entusiastas de:
 
@@ -11,26 +11,26 @@ Por isso venho por meio deste repositório convidar programadores e alunos/entus
 - química;
 - biologia.
 
-Para criarmos desde as funções que implementam suas fórmulas até as ferramentas sócio-educacionais que utilizem-se de todo material, por nós criado, e facilite a entrada tanto de professores como alunos no mundo digital da educaçao.
+Para criarmos desde as funções que implementam suas fórmulas até as ferramentas sócio-educacionais que utilizem-se de todo material, por nós criado, e facilite a entrada tanto de professores como alunos no mundo digital da educação.
 
-Sabendo que nós somos os maiores agentes da transformaçao social, atualmente, creio que devemos nos focar mais em criar ferramentas para auxiliar a Educaçao do que ferramentas para auxiliar apenas outros programadores.
+Sabendo que nós somos os maiores agentes da transformação social, atualmente, creio que devemos nos focar mais em criarmos ferramentas para auxiliar a Educaçao do que ferramentas para auxiliar apenas outros programadores.
 
 ## Ideias
 
-Imaginem os programadores se unirem para criarem uma plataforma unificada de conhecimento, inicialmente focado em Exatas, onde seria criado uma api para a criaçao e utilizaçao de fórmulas pré-existentes, onde as mesmas possuam toda sua explicaçao, conteúdos, etc relacionados.
+Imaginem os programadores se unirem para criarem uma plataforma unificada de conhecimento, inicialmente focado em Exatas, onde seria criado uma api para a criaçao e utilização de fórmulas pré-existentes, onde as mesmas possuam toda sua explicação, conteúdos, etc relacionados.
 
-Criar uma plataforma de criaçao de ferramentas sócio-educacionais onde os profissionais de cada disciplina irao sugerir tópicos a serem implementados e **um professor da Webschool** ficara responsavel pelo gerenciamento do projeto.
+Criar uma plataforma de criação de ferramentas sócio-educacionais onde os profissionais de cada disciplina irão sugerir tópicos a serem implementados e **um professor da Webschool** ficara responsável pelo gerenciamento do projeto.
 
 > Dando prioridade para trabalhos de TCC desses alunos das outras disciplinas. 
 
 
-### Matem√tica
+### Matemática
 
 
 
 - sistema visual de ensino de operações
-- sistema de execuçao de algoritmo em linguagem natural
-- sistema de conversao do algoritmo em linguagens de programaçao
+- sistema de execução de algoritmo em linguagem natural
+- sistema de conversão do algoritmo em linguagens de programação
   - utilizando ast p/ varias langs
 - sistema de exercícios via algoritmos
 - mapeamento dos conhecimentos
@@ -48,7 +48,7 @@ Criar uma plataforma de criaçao de ferramentas sócio-educacionais onde os prof
 
 ## Metodologia Disruptiva para
 
-### Matem√tica
+### Matemática
 
 Primeiramente que acredito que antes de aprender/ensinar Matema´tica deve-se ensinar, nessa ordem: Lógica e algortimo.
 
